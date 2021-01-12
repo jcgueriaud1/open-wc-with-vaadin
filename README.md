@@ -1,6 +1,9 @@
 # \<xaadin-details>
 
-This webcomponent follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
+This repository is an example of a extended Vaaidn web component with a Storybook demo.
+
+It's based on open-wc starter and simply import 2 Vaadin component, vaadin-details and vaadin-button.
+vaadin-details is extended and the storybook has been configured to demo partially this component.
 
 ## Installation
 ```bash
